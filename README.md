@@ -120,9 +120,8 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Observations
 
-*(Include your own table / plots relevant to the experiment.)*
-
-
+ <img width="1071" height="707" alt="image" src="https://github.com/user-attachments/assets/4c7930f8-6069-4511-a26b-226843c8888c" />
+ <img width="1002" height="671" alt="image" src="https://github.com/user-attachments/assets/ac8a3445-6f0e-4041-a3aa-ea92a935044f" />
 
 ### Graphs
 
@@ -149,14 +148,10 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Result
 
-Resonant Frequency = GHz  
-
-Return loss = dB
-
-VSWR = 
-
-Gain = 
-
+Resonant Frequency: 2.448 GHz
+Return Loss (S11): -28.62 dB
+VSWR: 1.07
+Gain: 6.45 dBi
 
 ## Conclusion
 
